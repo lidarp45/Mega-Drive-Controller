@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="354" viewBox="70 380 1360 740"><defs>
+  <linearGradient id="neutral" x1="0" y1="0" x2=".12" y2="1"><stop stop-color="#f4f6fa" stop-opacity=".31"/><stop offset=".36" stop-color="#d0d5de" stop-opacity=".09"/><stop offset=".7" stop-color="#141923" stop-opacity=".04"/><stop offset="1" stop-color="#00040b" stop-opacity=".42"/></linearGradient>
+  <linearGradient id="pressed" x1="0" y1="0" x2=".12" y2="1"><stop stop-color="#00111d" stop-opacity=".45"/><stop offset=".3" stop-color="#1f7cb0" stop-opacity=".28"/><stop offset=".68" stop-color="#5bcfff" stop-opacity=".23"/><stop offset="1" stop-color="#bceeff" stop-opacity=".48"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.4"/></filter>
+</defs><path d="M935 439 Q1118 398 1232 448 L1233 474 Q1103 435 937 463Z" fill="none" stroke="#09121b" stroke-opacity=".8" stroke-width="8"/>
+    <path d="M935 439 Q1118 398 1232 448 L1233 474 Q1103 435 937 463Z" fill="url(#pressed)" stroke="#64cfff" stroke-opacity=".65" stroke-width="3.5"/>
+    <path d="M935 439 Q1118 398 1232 448 L1233 474 Q1103 435 937 463Z" fill="none" stroke="#061622" stroke-opacity=".65" stroke-width="7" filter="url(#soft)"/>
+    <path d="M935 439 Q1118 398 1232 448 L1233 474 Q1103 435 937 463Z" fill="none" stroke="#42c3ff" stroke-opacity=".24" stroke-width="11" filter="url(#glow)"/></svg>

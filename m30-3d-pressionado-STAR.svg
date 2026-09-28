@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="354" viewBox="70 380 1360 740"><defs>
+  <linearGradient id="neutral" x1="0" y1="0" x2=".12" y2="1"><stop stop-color="#f4f6fa" stop-opacity=".31"/><stop offset=".36" stop-color="#d0d5de" stop-opacity=".09"/><stop offset=".7" stop-color="#141923" stop-opacity=".04"/><stop offset="1" stop-color="#00040b" stop-opacity=".42"/></linearGradient>
+  <linearGradient id="pressed" x1="0" y1="0" x2=".12" y2="1"><stop stop-color="#00111d" stop-opacity=".45"/><stop offset=".3" stop-color="#1f7cb0" stop-opacity=".28"/><stop offset=".68" stop-color="#5bcfff" stop-opacity=".23"/><stop offset="1" stop-color="#bceeff" stop-opacity=".48"/></linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.4"/></filter>
+</defs><ellipse cx="654" cy="850" rx="32" ry="32" fill="none" stroke="#07111b" stroke-opacity=".8" stroke-width="8"/>
+    <ellipse cx="654" cy="852" rx="25" ry="25" fill="url(#pressed)" stroke="#58cfff" stroke-opacity=".65" stroke-width="3.5"/>
+    <path d="M 633 836.5 A 25.2 25.2 0 0 1 672.6 835.9" fill="none" stroke="#020b16" stroke-opacity=".8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M 636.6 870.1 A 24.3 24.3 0 0 0 671.4 870.1" fill="none" stroke="#b9eeff" stroke-opacity=".72" stroke-width="3.8" stroke-linecap="round"/>
+    <ellipse cx="654" cy="850" rx="34" ry="34" fill="none" stroke="#3fbfff" stroke-opacity=".32" stroke-width="8" filter="url(#glow)"/></svg>
