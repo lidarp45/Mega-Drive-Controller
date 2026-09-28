@@ -3,7 +3,9 @@
   <linearGradient id="pressed" x1="0" y1="0" x2=".12" y2="1"><stop stop-color="#00111d" stop-opacity=".45"/><stop offset=".3" stop-color="#1f7cb0" stop-opacity=".28"/><stop offset=".68" stop-color="#5bcfff" stop-opacity=".23"/><stop offset="1" stop-color="#bceeff" stop-opacity=".48"/></linearGradient>
   <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
   <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.4"/></filter>
-</defs><ellipse cx="741" cy="719" rx="56" ry="23" fill="none" stroke="#000309" stroke-opacity=".56" stroke-width="6" filter="url(#soft)"/>
-    <ellipse cx="741" cy="716" rx="52" ry="19" fill="url(#neutral)" stroke="#c0c7d3" stroke-opacity=".34" stroke-width="3"/>
-    <path d="M 702.5 708.52 A 46.75 18.7 0 0 1 772.35 703.9" fill="none" stroke="#f2f5f9" stroke-opacity=".55" stroke-width="3.2" stroke-linecap="round"/>
-    <path d="M 711.3 731.84 A 45.65 18.259999999999998 0 0 0 770.7 731.84" fill="none" stroke="#020711" stroke-opacity=".64" stroke-width="4.2" stroke-linecap="round"/></svg>
+</defs>
+<rect x="683" y="694" width="116" height="46" rx="23" fill="none" stroke="#000309" stroke-opacity=".5" stroke-width="5" filter="url(#soft)"/>
+<rect x="689" y="700" width="104" height="35" rx="17.5" fill="url(#neutral)" stroke="#dbe2f0" stroke-opacity=".3" stroke-width="2.5"/>
+<path d="M708 704 H773" fill="none" stroke="#f2f5ff" stroke-opacity=".56" stroke-width="3" stroke-linecap="round"/>
+<path d="M708 731 H773" fill="none" stroke="#040916" stroke-opacity=".58" stroke-width="3.4" stroke-linecap="round"/>
+</svg>
